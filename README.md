@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arturo Rivera</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=houser97&label=Profile%20views&color=0e75b6&style=flat" alt="houser97" /> </p>
-
-
-- 🔭 I’m currently working on **a Where is Waldo application**
+- 🔭 I’m currently working on my **Portfolio**
 
 - 🌱 I’m currently learning **React and REST API**
 
