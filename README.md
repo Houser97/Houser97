@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arturo Rivera</h1>
+<h1 align="center">Hi, I'm Arturo Rivera</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 - 🔭 I’m currently working on my **Portfolio**
