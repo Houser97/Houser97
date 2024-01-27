@@ -19,5 +19,5 @@ My github user is inspired by my little four-legged best friend called House, wh
   <h2></h2>
 
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=kubernetes,cpp,graphql,nextjs,jenkins,java,go,aws,threejs" alt="skills actively learning logos"> <br>
+  <img src="https://skillicons.dev/icons?i=redis,postgres,kubernetes,cpp,graphql,nextjs,jenkins,java,go,aws,threejs" alt="skills actively learning logos"> <br>
 </div>
