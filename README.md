@@ -9,15 +9,15 @@ My github user is inspired by my little four-legged best friend called House, wh
 
 <div align="center">
     <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,css,js,docker,mongodb,mysql,redux,ts,py,express,git,github,githubactions,tailwind,webpack,vite,html,materialui,babel,jest,md,firebase,vscode,postman,heroku,ansible,matlab,linux,azure,bash" alt="skills logos" /> <br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,css,js,docker,mongodb,mysql,redux,ts,py,express,git,github,githubactions,tailwind,webpack,vite,html,materialui,babel,jest,md,firebase,vscode,postman,heroku,ansible,matlab,linux,azure,bash,gcp,nestjs" alt="skills logos" /> <br>
     
   <h2></h2>
 
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=gcp,nestjs,cs" alt="skills actively learning logos"> <br>
+  <img src="https://skillicons.dev/icons?i=nextjs,kubernetes,cs" alt="skills actively learning logos"> <br>
 
   <h2></h2>
 
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=nestjs,redis,postgres,kubernetes,cpp,graphql,nextjs,jenkins,java,go,aws,threejs" alt="skills actively learning logos"> <br>
+  <img src="https://skillicons.dev/icons?i=nestjs,redis,postgres,cpp,graphql,jenkins,java,go,aws,threejs" alt="skills actively learning logos"> <br>
 </div>
