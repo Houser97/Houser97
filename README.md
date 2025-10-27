@@ -14,10 +14,10 @@ My github user is inspired by my little four-legged best friend called House, wh
   <h2></h2>
 
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=nextjs,kubernetes,cs,java" alt="skills actively learning logos"> <br>
+  <img src="https://skillicons.dev/icons?i=nextjs,cs,aws" alt="skills actively learning logos"> <br>
 
   <h2></h2>
 
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=kotlin,redis,postgres,cpp,graphql,jenkins,go,aws,threejs" alt="skills actively learning logos"> <br>
+  <img src="https://skillicons.dev/icons?i=kotlin,redis,postgres,cpp,graphql,jenkins,go,threejs" alt="skills actively learning logos"> <br>
 </div>
